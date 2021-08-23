@@ -3,7 +3,7 @@
 <div>
 
 <div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
+  <h3> About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies.
   - 🎓 &nbsp; Studying Computer Science.
