@@ -1,7 +1,7 @@
 <h1 align="center">I'm Shubham Parmar 👋 </h1>
 <h3 align="center"> Web Developer | MERN Stack </h3>
 <div>
-  <img width = "35%" align="right" alt="PIC" height="100%" src="https://github-readme-stats.vercel.app/api?username=shubhamparmar8&theme=buefy&show_icons=true" />
+  <img width = "35%" align="right" alt="PIC" height="500px" src="https://github-readme-stats.vercel.app/api?username=shubhamparmar8&theme=buefy&show_icons=true" />
 <div align="left"> 
   <h3> About Me </h3>
 
