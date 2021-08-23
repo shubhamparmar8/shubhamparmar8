@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Shubham Parmar 👋 </h1>
+<h1 align="center">I'm Shubham Parmar 👋 </h1>
 <h3 align="center"> Web Developer | MERN Stack </h3>
 <div>
 
