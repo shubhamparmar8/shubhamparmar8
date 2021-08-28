@@ -8,7 +8,7 @@
   - 🎓 &nbsp; Studying Computer Science.
   - 💼 &nbsp; I’m currently looking for opportunities.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Financial Literacy and Gaming as hobbies/side hustles.  
+ 
 </div> 
 </div>
 
