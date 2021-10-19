@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋 I'm Shubham Parmar  </h1>
-<h4 align="center"> Software Developer </h3>
+<h3 align="center"> Software Developer </h3>
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
