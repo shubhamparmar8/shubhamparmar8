@@ -1,17 +1,5 @@
 <h1 align="center">I'm Shubham Parmar 👋 </h1>
-<h3 align="center"> Web Developer | MERN Stack </h3>
-<div>
-<div align="left"> 
-  <h3> About Me </h3>
-
-  - 🤔 &nbsp; Exploring new technologies.
-  - 🎓 &nbsp; Studying Computer Science.
-  - 💼 &nbsp; I’m currently looking for opportunities.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
- 
-</div> 
-</div>
-
+<h3 align="center"> Software Developer </h3>
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
